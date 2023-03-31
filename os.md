@@ -141,7 +141,7 @@
   程序由用户态转到核心态，会用到访管指令(陷阱指令)，在用户态下使用。
   ```
   
-  ![image-20230331214916956](C:\Users\徐轲的小电脑\AppData\Roaming\Typora\typora-user-images\image-20230331214916956.png)
+  ![image-20230331214916956](https://raw.githubusercontent.com/kevin-aron/photo/main/os/image-20230331214916956.png?token=GHSAT0AAAAAAB746PMNJRBYEIIJGBJSCZLOZBG6PNQ)
 
 **操作系统结构**
 
